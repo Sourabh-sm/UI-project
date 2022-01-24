@@ -29,6 +29,28 @@ button{
    
 }
 
+table,th,td { 
+    border-right:none;
+    border-left:none;
+}
+table{
+    border-collapse: collapse;
+    width:100%;
+    margin:black;
+}
+th{
+    
+    padding:10px;
+    background-color:white;
+    color:black;
+}
+td{
+
+    border:solid 1px;
+    border-left: 0px none;
+    border-right:0px none;
+    padding:13px;
+}
     
 
   
